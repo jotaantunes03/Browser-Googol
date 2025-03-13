@@ -1,0 +1,5 @@
+# Ignorar a pasta da base de dados
+/Index_BD/
+
+# Ignorar o ficheiro urlqueue.db
+/testes para o projeto de SD/urlqueue.db
